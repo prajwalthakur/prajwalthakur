@@ -1,6 +1,6 @@
 <p align="center">
   <!-- <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
-  <a href="https://gist.github.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac.js">
+  <a href="https://gist.github.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac">
     <img src="assets/robot.gif"  width="50%" >
   </a>
 </p>
