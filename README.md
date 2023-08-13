@@ -3,7 +3,7 @@
   <img src="assets/robot.gif"  width="60%" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prajwal Thakur</h1>
+<h1 align="center">Hi <img src="assets/JarvisBot.gif" width="30px">, I'm Prajwal Thakur</h1>
 <h3 align="center"> Graduate Student | Roboticist </h3>
 <p align="center">
 <!--lint ignore double-link-->
