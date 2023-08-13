@@ -1,9 +1,9 @@
 <p align="center">
   <!-- <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
-  <img src="assets/robot.gif"  width="60%" />
+  <img src="assets/robot.gif"  width="50%" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="assets/JarvisBot.gif" width="30px">, I'm Prajwal Thakur</h1>
+<h1 align="center">Hi <img src="assets/JarvisBot.gif" width="50px">, I'm Prajwal Thakur</h1>
 <h3 align="center"> Graduate Student | Roboticist </h3>
 <p align="center">
 <!--lint ignore double-link-->
