@@ -1,6 +1,8 @@
 <p align="center">
   <!-- <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
-  <img src="assets/robot.gif"  width="50%" />
+  <a href="https://gist.github.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac.js">
+    <img src="assets/robot.gif"  width="50%" >
+  </a>
 </p>
 <hr>
 <h1 align="center">Hi <img src="assets/JarvisBot.gif" width="50px">, I'm Prajwal Thakur</h1>
