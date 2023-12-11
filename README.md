@@ -20,7 +20,11 @@
  <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a> -->
 </p>
 </p>
+# Education
 
+<!--* :mortar_board: 2017 - 2021: PhD in Robotics-->
+* :school: 2023 -: MSc in Electrical And Computer Engineering, Systems, and Control (University of Waterloo, Canada)
+* :school_satchel: 2017 - 2021: Bachelor of Tech. in ECE (Indian Institute of Technology, Dhanbad,India)
 
 
 <!-- <p align="center">
