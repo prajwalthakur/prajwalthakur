@@ -5,7 +5,10 @@
   </a>
 </p>
 <hr>
-<h1 align="center">Hi <img src="assets/JarvisBot.gif" width="50px">, I'm Prajwal Thakur</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=30&color=%23C8D0D8&center=true&vCenter=true&lines=I'm+Prajwal+👋;I'm+a+Roboticist+🤖;I'm+a+Programmer+💻;I'm+a+Researcher+🔬">
+</div>
 <h3 align="center"> Graduate Student | Roboticist </h3>
 <p align="center">
 <!--lint ignore double-link-->
