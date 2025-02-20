@@ -1,11 +1,11 @@
 <p align="center">
   <!-- <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
-  <a href="https://gist.github.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac">
+  <!-- <a href="https://gist.github.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac">
     <img src="assets/robot.gif"  width="50%" >
   </a>
 </p>
 <hr>
-<div align="center">
+<div align="center"> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=30&color=%23C8D0D8&center=true&vCenter=true&lines=I'm+Prajwal+👋;I'm+a+Roboticist+🤖;I'm+a+Programmer+💻;I'm+a+Researcher+🔬">
 </div>
@@ -81,7 +81,7 @@
   <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
 ">  -->
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+<!-- Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -108,7 +108,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+</div> -->
 
 <hr>
 
