@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <!-- <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
   <!-- <a href="https://gist.github.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac">
     <img src="assets/robot.gif"  width="50%" >
@@ -7,9 +7,9 @@
 <hr>
 <div align="center"> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=30&color=%23C8D0D8&center=true&vCenter=true&lines=I'm+Prajwal+👋;I'm+a+Roboticist+🤖;I'm+a+Programmer+💻;I'm+a+Researcher+🔬">
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=30&color=%23C8D0D8&center=true&vCenter=true&lines=I'm+Prajwal+👋;I'm+a+Roboticist+🤖;I'm+a+Programmer+💻;I'm+a+Researcher+🔬"> -->
 </div>
-<h3 align="center"> Graduate Student | Roboticist </h3>
+<h3 align="center"> Graduate Student at University of Waterloo</h3>
 <p align="center">
 <!--lint ignore double-link-->
 <!-- <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 <a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
  <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a> -->
 </p>
-</p>
+</p> -->
 
 # Education
 <!--* :mortar_board: 2017 - 2021: PhD in Robotics-->
