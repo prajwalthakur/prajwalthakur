@@ -23,7 +23,7 @@
 
 # Education
 <!--* :mortar_board: 2017 - 2021: PhD in Robotics-->
-* :school: 2023 -: MSc in Electrical And Computer Engineering, Systems, and Control (University of Waterloo, Canada)
+* :school: 2023 -:2025 MSc in Electrical And Computer Engineering, Systems, and Control (University of Waterloo, Canada)
 * :school_satchel: 2017 - 2021: Bachelor of Tech. in ECE (Indian Institute of Technology, Dhanbad,India)
 
 
